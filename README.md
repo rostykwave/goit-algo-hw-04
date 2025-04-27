@@ -29,6 +29,10 @@ The results are visualized in the chart below:
 
 ![Sorting Algorithm Comparison](sorting_comparison.png)
 
+The terminal output of the sorting algorithms' performance tests, including execution times and comparisons for different input types (random, sorted, reversed, and partially sorted arrays):
+
+![Terminal Output](terminal_screenshot.png)
+
 ### Key Findings
 
 1. **Insertion Sort**:
